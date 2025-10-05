@@ -1,5 +1,4 @@
---staging model for customers
---added one more comment
+--removed comments
 
 with source  as (
 
